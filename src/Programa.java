@@ -19,6 +19,13 @@ public class Programa {
 		
 		System.out.println("a idade é " + idade + ", parabéns! ");
 		
+		//git status
+		//git commit -m "Imprimindo tipo inteiro"
+		//git status
+		//git log 
+		//git remote -v
+		//git push -u origin master
+		
 	}
 	
 }
