@@ -1,6 +1,6 @@
 # sintaxe-basica
 
-This project is only a way to study the basics of Java and also practicing git commands
+This project is only a way to practice git commands and also the basics of Java 
 
 In order to see if there are files to add in git, type: 
 
